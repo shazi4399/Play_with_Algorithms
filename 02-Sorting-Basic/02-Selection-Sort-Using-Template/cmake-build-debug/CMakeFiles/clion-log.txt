@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/zhanghao/CLionProjects/Play-with-Algorithms/02-Sorting-Basic/02-Selection-Sort-Using-Template
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/zhanghao/CLionProjects/Play-with-Algorithms/02-Sorting-Basic/02-Selection-Sort-Using-Template/cmake-build-debug

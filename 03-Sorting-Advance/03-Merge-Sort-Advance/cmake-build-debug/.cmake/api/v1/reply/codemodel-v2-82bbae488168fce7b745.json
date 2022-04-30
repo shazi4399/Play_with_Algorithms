@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03_Merge_Sort_Advance",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03_Merge_Sort_Advance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_Merge_Sort_Advance-Debug-d8edfbe4d38614b154f7.json",
+					"name" : "03_Merge_Sort_Advance",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zhanghao/CLionProjects/Play-with-Algorithms/03-Sorting-Advance/03-Merge-Sort-Advance/cmake-build-debug",
+		"source" : "/Users/zhanghao/CLionProjects/Play-with-Algorithms/03-Sorting-Advance/03-Merge-Sort-Advance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

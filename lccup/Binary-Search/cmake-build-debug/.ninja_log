@@ -1,0 +1,23 @@
+# ninja log v5
+0	271	1650766332470621067	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+272	302	1650766332502753245	binarysearch	cf8c31f2d5ee18d0
+3	220	1650766368777199367	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+220	251	1650766368809487502	binarysearch	cf8c31f2d5ee18d0
+1	442	1650766610914694358	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+443	485	1650766610959930956	binarysearch	cf8c31f2d5ee18d0
+1	358	1650769777466604136	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+358	403	1650769777513952641	binarysearch	cf8c31f2d5ee18d0
+1	265	1650770365753084603	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+265	297	1650770365786232103	binarysearch	cf8c31f2d5ee18d0
+1	479	1650771602771962001	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+480	523	1650771602818241747	binarysearch	cf8c31f2d5ee18d0
+1	260	1650771610616571027	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+260	289	1650771610646639382	binarysearch	cf8c31f2d5ee18d0
+1	262	1650771647631229880	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+262	292	1650771647662679699	binarysearch	cf8c31f2d5ee18d0
+1	281	1650771731335206920	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+281	322	1650771731373201512	binarysearch	cf8c31f2d5ee18d0
+1	263	1650771764113396362	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+263	290	1650771764142056171	binarysearch	cf8c31f2d5ee18d0
+1	281	1650771774670984476	CMakeFiles/binarysearch.dir/binarySearch.cpp.o	ce4f305ccc4e4deb
+281	308	1650771774700015786	binarysearch	cf8c31f2d5ee18d0

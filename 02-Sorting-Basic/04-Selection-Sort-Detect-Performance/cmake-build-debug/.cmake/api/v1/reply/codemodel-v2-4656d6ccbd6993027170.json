@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03_Selection_Sort_Detect_Performance",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03_Selection_Sort_Detect_Performance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_Selection_Sort_Detect_Performance-Debug-63632412cacc29313bd0.json",
+					"name" : "03_Selection_Sort_Detect_Performance",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zhanghao/CLionProjects/Play-with-Algorithms/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/cmake-build-debug",
+		"source" : "/Users/zhanghao/CLionProjects/Play-with-Algorithms/02-Sorting-Basic/04-Selection-Sort-Detect-Performance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

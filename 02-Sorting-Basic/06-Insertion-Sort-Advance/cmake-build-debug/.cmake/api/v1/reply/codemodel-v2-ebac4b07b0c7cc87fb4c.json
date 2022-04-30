@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03_Insertion_Sort_Advance",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03_Insertion_Sort_Advance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_Insertion_Sort_Advance-Debug-31f3942fd2e8d9ffbf90.json",
+					"name" : "03_Insertion_Sort_Advance",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zhanghao/CLionProjects/Play-with-Algorithms/02-Sorting-Basic/06-Insertion-Sort-Advance/cmake-build-debug",
+		"source" : "/Users/zhanghao/CLionProjects/Play-with-Algorithms/02-Sorting-Basic/06-Insertion-Sort-Advance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

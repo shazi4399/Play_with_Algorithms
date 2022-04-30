@@ -1,0 +1,5 @@
+# ninja log v5
+1	217	1650808637917631193	CMakeFiles/03_Selection_Sort_Detect_Performance.dir/SortTestHelper.cpp.o	bd1cbe9bb6835ce5
+0	54	1650871545133276754	build.ninja	d5f65cbc86bcb68a
+1	246	1650808728624249759	CMakeFiles/03_Selection_Sort_Detect_Performance.dir/main.cpp.o	2391ee8df8b57f27
+246	279	1650808728658862357	03_Selection_Sort_Detect_Performance	886c9d768e556e40
